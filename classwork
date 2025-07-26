@@ -1,0 +1,9 @@
+public class mohendro{
+    public static void main(String[] args){
+        int[]a = {1,2,3,4,5};
+        int n = a.length;
+        int i = 0;
+        for (i=0; i<n; i++);
+        System.out.println(a[i]);
+    }
+}
